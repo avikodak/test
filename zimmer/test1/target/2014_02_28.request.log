@@ -1,0 +1,4 @@
+127.0.0.1 -  -  [28/Feb/2014:08:44:00 +0000] "GET /rest/authentication/ HTTP/1.1" 200 11 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 -  -  [28/Feb/2014:08:44:06 +0000] "GET /rest/authentication/dao HTTP/1.1" 204 0 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 -  -  [28/Feb/2014:08:44:26 +0000] "GET /rest/authentication/ HTTP/1.1" 200 11 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 -  -  [28/Feb/2014:08:44:27 +0000] "GET /favicon.ico HTTP/1.1" 200 1150 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
